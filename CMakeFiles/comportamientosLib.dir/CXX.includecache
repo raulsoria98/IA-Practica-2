@@ -35,6 +35,8 @@ set
 -
 stack
 -
+queue
+-
 
 /home/ray/Documentos/Universidad/2º/2º Semestre/IA/Practica 2/practica2/Comportamientos_Jugador/jugador.hpp
 comportamientos/comportamiento.hpp
